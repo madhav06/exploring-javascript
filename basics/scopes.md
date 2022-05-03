@@ -21,3 +21,8 @@ console.log(test); // undefined
 **Since the variable test is only declared and has no value, undefined value is assigned to it.**
 
 >NOTE: In terms of variables and constants, keyword ***var*** is hoisted and ***let*** and ***const*** does not allow hoisting.
+<pre>
+Hoisting is the default behavior of moving all the declarations at the top of the scope before code execution.
+
+JavaScript allocates memory for all variables and functions defined in the program before execution.
+</pre>
