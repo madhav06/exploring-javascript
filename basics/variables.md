@@ -18,6 +18,21 @@
  **let:** Declares a block-scoped, local variable, optionally initializing it to a value.
 
  **const:** Declares a block-scoped, read-only named constant.
+ <pre>
+ * How do you decide if you're going to use let or const? The general rule is easy. Always go with const, until you realize that you need to be able to re-assign the variable later on, then switch it to let.
+
+ * Avoid using var when defining variables. Use let or const instead.
+
+ * Variables declared with const cannot be re-assigned so you cannot have the = next to that variable name after declaring it.
+ </pre>
+
+ <pre>
+ // define a const variable and increment it.
+ //define a variable "count" with value 0
+ let count = 0;
+ //then increment it
+ count = count + 1; // or count += 1
+ </pre>
 
 #### JavaScript Variable Scope
  The scope is the region in which the variable is defined. JavaScript variables have only two scopes.
