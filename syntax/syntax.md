@@ -52,7 +52,7 @@ JavaScript provides different datatype to hold different values on variable. Jav
 
 <pre>
 // It store string data type
-var txt = "GeeksforGeeks";
+var txt = "Hotel Clarks";
 
 // It store integer data type
 var a = 5;
@@ -62,7 +62,7 @@ var b = 5;
 (a == b )
  
 // It store array data type
-var places= ["GFG", "Computer", "Hello"];
+var places= ["MIT", "Computer", "Hello"];
 
 // It store object data
 var Student = {firstName:"Johnny", lastName:"Diaz", age:35, mark:"blueEYE"}
