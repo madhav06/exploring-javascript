@@ -1,4 +1,4 @@
-// Loop through array elements
+// using forEach: Loop through array elements
 
 /*
 Complete the function loopThroughElements such that it,
