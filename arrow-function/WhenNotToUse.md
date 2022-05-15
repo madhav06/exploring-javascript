@@ -28,3 +28,12 @@ function concat(separator) {
     return args.join(separator);
 }
 ```
+
+<h4>Summary:</h4>
+
+* An arrow function doesn’t have its own this value. Instead, it uses the this value of the enclosing lexical scope. An arrow function also doesn’t have the arguments object.
+
+* Avoid using the arrow function for event handlers, object methods, prototype methods, and functions that use the arguments object.
+
+
+
