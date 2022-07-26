@@ -6,7 +6,7 @@
 const grades = [{
     id: 1,
     grade: 12,
-    isPassing: false // we need to update this
+    isPassing: false // we need to update this Passing to "true"
 },
 {
     id: 2,

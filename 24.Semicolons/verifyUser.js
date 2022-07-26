@@ -6,9 +6,9 @@
 */
 
 /**
- * @param {array} users
- * @param {number} userId
- */
+* @param {array} users
+* @param {number} userId
+*/
 
 const verifyUser = (users, userId) => {
     const user = users.find(user => user.id === userId);

@@ -1,7 +1,7 @@
 /**
- * Complete the 11 questions by returning either true or false from every question.
+* Complete the 11 questions by returning either true or false from every question.
 * Feel free to add a console.log() of the equality so you can see the answer.
- */
+*/
 
 const question1 = () => {
     // return the answer of: true === true

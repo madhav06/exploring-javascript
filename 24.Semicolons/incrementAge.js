@@ -12,7 +12,7 @@
  */
 
 const incrementAge = user => {
-        return user.age = user.age + 1;
+        return user.age = user.age + 1; // incrementing by 1
 
 }
 
