@@ -15,4 +15,5 @@
 }
 
 // Sample usage - do not modify
-logValues({id: 1, name: "Learn JavaScript", year: 2021}); // should log (separately): 1, "Learn JavaScript" and 2021
+logValues({id: 1, name: "Learn JavaScript", year: 2021}); 
+// should log (separately): 1, "Learn JavaScript" and 2021

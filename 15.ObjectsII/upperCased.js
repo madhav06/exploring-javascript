@@ -17,6 +17,9 @@ const getUpperCaseProperties = course => {
 }
 
 // Sample usage - do not modify
-console.log(getUpperCasedProperties({id: 1, name: "Learn JavaScript", year: 2021})); // ["ID", "NAME", "YEAR"]
-console.log(getUpperCasedProperties({name: "Learn JavaScript", category: "Programming"})); // ["NAME", "CATEGORY"]
-console.log(getUpperCasedProperties({})); // []
+console.log(getUpperCasedProperties({id: 1, name: "Learn JavaScript", year: 2021})); 
+// ["ID", "NAME", "YEAR"]
+console.log(getUpperCasedProperties({name: "Learn JavaScript", category: "Programming"})); 
+// ["NAME", "CATEGORY"]
+console.log(getUpperCasedProperties({})); 
+// []

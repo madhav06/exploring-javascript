@@ -3,8 +3,8 @@ function getCourseDetail such that it returns the following string:
 
 The course X is Y
 
-Where X is replaced with the detail parameter and
-Y replaced with the value from the course parameter where the property is detail.
+Where X is replaced with the "detail parameter" and
+Y replaced with the value "course parameter" and   the property is "detail parameter".
 
 */
 
